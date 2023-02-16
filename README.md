@@ -1,9 +1,11 @@
 # Docker Todo List
 
 #### Intro:
-Simple app with Docker compose and linking containers.
+In this project I worked with docker compose and linked containers.
 
 
 Technologies:
-React and Docker
+- Docker
+- Node.js (backend container)
+- React (frontend container)
 
